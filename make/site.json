@@ -1,0 +1,10 @@
+{
+  "description": "Connect rural athletes with scouts by analyzing sports videos to deliver detailed AI-driven performance assessments for kabaddi, wrestling, and sprinting.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
